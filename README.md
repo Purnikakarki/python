@@ -1,2 +1,0 @@
-# python
-Nami class
